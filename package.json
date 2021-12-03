@@ -1,0 +1,26 @@
+{
+  "name": "aceshop",
+  "version": "1.0.0",
+  "description": "Bot criado por Vitu2002 para a AceShop",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Vitu2002",
+    "email": "dev@karmabot.xyz"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-anti-spam": "^2.5.1",
+    "discord-fetch-all": "^3.0.2",
+    "discord-giveaways": "^4.5.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.12"
+  }
+}
